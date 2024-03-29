@@ -128,7 +128,7 @@ Flink SQL> CREATE TABLE orders (
 );
 ```
 
-您也可以访问 Flink CDC 官网文档，快速体验将数据从 OceanBase 导入到 Elasticsearch。更多信息，参考 [Flink CDC 官网文档](https://ververica.github.io/flink-cdc-connectors/release-2.2/content/%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B/oceanbase-tutorial-zh.html)。
+您也可以访问 Flink CDC 官网文档，快速体验将数据从 OceanBase 导入到 Elasticsearch。更多信息，参考 [Flink CDC 官网文档](https://flink-tpc-ds.github.io/flink-cdc-connectors/release-2.2/content/%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B/oceanbase-tutorial-zh.html)。
 
 ## OceanBase CDC 连接器选项
 
